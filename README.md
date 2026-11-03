@@ -1,6 +1,6 @@
 # Multi-Document RAG System
 
-![Multi-Document RAG System](banner.png)
+![Multi-Document RAG System](banner-v2.png)
 
 A question-answering system for PDF documents. You ask a question in a chat window and it finds the answer inside the documents, even when several PDFs are loaded at once. It was tested with the Pakistan Constitution, the UN Charter and the Geneva Convention IV.
 
